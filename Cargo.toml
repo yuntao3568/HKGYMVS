@@ -7,7 +7,6 @@ rust-version = "1.56.0"
 description = "海康工业相机的rust bindgen"
 documentation = "null"
 readme = "./README.md"
-homepage = "null"
 repository = "https://github.com/yuntao3568/HKGYMVS/"
 license = "MIT"
 keywords = ["HKGYMVS", "HKROBOT"]
