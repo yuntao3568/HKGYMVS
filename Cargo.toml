@@ -5,18 +5,13 @@ authors = ["longzezheng <longzezheng@126.com>"]
 edition = "2021"
 rust-version = "1.56.0"
 description = "海康工业相机的rust bindgen"
-documentation = "null"
 readme = "./README.md"
 repository = "https://github.com/yuntao3568/HKGYMVS/"
 license = "MIT"
 keywords = ["HKGYMVS", "HKROBOT"]
 categories = ["api-bindings", "computer-vision"]
 
-
-
-
 [dependencies]
-
 
 [build-dependencies]
 bindgen = "0.70.1"
