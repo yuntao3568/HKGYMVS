@@ -1,0 +1,11 @@
+[package]
+name = "HKGYMVS"
+version = "0.1.0"
+authors = ["longzezheng <longzezheng@126.com>"]
+edition = "2021"
+
+[dependencies]
+
+
+[build-dependencies]
+bindgen = "0.70.1"
