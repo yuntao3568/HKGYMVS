@@ -3,6 +3,10 @@ name = "HKGYMVS"
 version = "0.1.0"
 authors = ["longzezheng <longzezheng@126.com>"]
 edition = "2021"
+rust-version = "1.80.0"
+description = "海康工业相机的rust bindgen"
+repository = "https://github.com/yuntao3568/HKGYMVS/"
+
 
 [dependencies]
 
